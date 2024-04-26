@@ -1,0 +1,9 @@
+.hero{
+    padding-top: 130px;
+    padding-bottom: 120px;
+    border: black;
+}
+
+.hero.variant-one{
+    background-color: #CEFBFF;
+}

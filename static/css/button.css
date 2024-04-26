@@ -1,0 +1,16 @@
+.button:hover,
+.button:link,
+.button:active,
+.button:visited{
+    color:white;
+    text-decoration: none;
+    display: block;
+    background: #240202;
+    font-size: 35px;
+    padding: 14px 33px;
+    line-height: 50px;
+    background-image: url(images/right-arrow-svgrepo-com\ 1.svg);
+    background-size: 28px 34px;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 28px) center;
+}
